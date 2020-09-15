@@ -10,6 +10,7 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
+    "@storybook/addon-a11y": "^6.0.21",
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
   },
